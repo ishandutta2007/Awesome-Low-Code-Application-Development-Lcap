@@ -4,10 +4,12 @@
 
 # 🚀 Awesome Low-Code Application Development (LCAP)
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Track](https://img.shields.io/badge/Category-Low--Code%20Application%20Development%20(LCAP)-6366f1.svg)](https://github.com/ishandutta2007/Awesome-Low-Code-Application-Development-Lcap)
 [![License](https://img.shields.io/badge/License-CC0_1.0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Low-Code-Application-Development-Lcap/pulls)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **Curated directory of enterprise SaaS platforms and self-hostable open-source GitHub frameworks for Low-Code Application Development (LCAP), Rapid Application Delivery (RAD), Citizen Development, and Internal Tool Builders.**
 
@@ -24,6 +26,8 @@
 - [⚡ Open-Source GitHub Projects & Self-Hosted LCAP Engines](#-open-source-github-projects--self-hosted-lcap-engines)
 - [📦 Frameworks & Toolkits for Custom Low-Code Stacks](#-frameworks--toolkits-for-custom-low-code-stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚖️ Compliance & Governance Disclaimer](#️-compliance--governance-disclaimer)
 
 ---
@@ -129,6 +133,22 @@ We welcome contributions from citizen developers, software architects, and open-
    - For SaaS tools: Include platform name, company size/valuation, specific pricing tier, specific free tier/trial limit, and key capabilities.
    - For Open-Source tools: Include GitHub repository name, live star badge linked to stargazers, primary tech stack, and clear architectural description.
 4. Open a **Pull Request** detailing why the tool belongs in this curated LCAP list.
+
+---
+
+## 💖 Support
+
+Thank you for exploring this curated repository! If you find this resource valuable for your research, enterprise architecture design, or low-code stack evaluation, please consider showing your support:
+
+- ⭐ **Star** this repository to help others discover it.
+- 🍴 **Fork** and contribute tools, corrections, or updates.
+- 📢 **Share** it with your fellow developers, engineers, and low-code communities.
+- ☕ **Buy me a coffee / Sponsor**: If you appreciate this work and want to support ongoing maintenance and new curated resources, you can sponsor the project via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Low-Code-Application-Development-Lcap&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Low-Code-Application-Development-Lcap&type=date&legend=top-left)
 
 ---
 
