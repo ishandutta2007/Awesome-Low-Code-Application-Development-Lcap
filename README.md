@@ -61,9 +61,9 @@ The following enterprise LCAP platforms are sorted in descending order by **comp
 
 ## ⚡ Open-Source GitHub Projects & Self-Hosted LCAP Engines
 
-The following open-source LCAP, rapid application development, and internal tool platforms are sorted in descending order by **GitHub Star count** 🌟.
+The following open-source LCAP, rapid application development, and internal tool platforms are sorted in descending order by **GitHub Stars_Count** 🌟.
 
-| 📦 Repository & Link | 🌟 GitHub Stars Badge | 💻 Tech Stack | 📖 Description & Capabilities |
+| 📦 Repository & Link | 🌟 GitHub_Stars_Badge | 💻 Tech Stack | 📖 Description & Capabilities |
 | :--- | :---: | :--- | :--- |
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | Node.js, Vue, TypeScript | Self-hosted smart spreadsheet and Airtable alternative that connects directly to MySQL, PostgreSQL, SQL Server, and SQLite. Exposes auto-generated REST and GraphQL APIs. |
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | TypeScript, React, NestJS, GraphQL | Open-source alternative to Salesforce and modular low-code CRM platform. Features extensible data models, kanban boards, workflows, and self-hosted control. |
@@ -131,7 +131,7 @@ We welcome contributions from citizen developers, software architects, and open-
 2. Create a new descriptive branch (`git checkout -b add-my-lcap-tool`).
 3. Add your SaaS or Open-Source tool to the appropriate table.
    - For SaaS tools: Include platform name, company size/valuation, specific pricing tier, specific free tier/trial limit, and key capabilities.
-   - For Open-Source tools: Include GitHub repository name, live star badge linked to stargazers, primary tech stack, and clear architectural description.
+   - For Open-Source tools: Include GitHub repository name, live Stars_Badge linked to stargazers, primary tech stack, and clear architectural description.
 4. Open a **Pull Request** detailing why the tool belongs in this curated LCAP list.
 
 ---
